@@ -15,3 +15,7 @@ The Telegram bot checks every 5 minutes and notify you ONLY when long or short v
 ## BOT screenshot
 
 TODO
+
+## Usage
+
+`python BTCTopTraderSentimentIndex.py <timestamp> <telegram_bot_token> <output_dir>`
