@@ -10,7 +10,7 @@ Telegram Bot URL: https://t.me/BTCTopTraderSentimentIndex_bot
 
 The Top Trader Sentiment Index reflects the percentage of long vs short positions held by the top 100 traders. 
 
-The Telegram bot notify you ONLY when long or short values are greatest of 50%. For future usage, I add also the BTC / USD value
+The Telegram bot checks every 5 minutes and notify you ONLY when long or short values are greatest of 50%. For future usage, I add also the BTC / USD value
 
 ## BOT screenshot
 
